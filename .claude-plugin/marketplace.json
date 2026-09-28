@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pstack-claude",
+  "description": "pstack ported to Claude Code.",
+  "owner": {
+    "name": "Ptrhnk",
+    "url": "https://github.com/Ptrhnk"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "description": "Rigorous agent workflows: poteto-mode playbooks, principle skills, arena, interrogate, swarm.",
+      "source": "./pstack",
+      "category": "development"
+    }
+  ]
+}
