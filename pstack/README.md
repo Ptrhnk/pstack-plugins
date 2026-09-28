@@ -23,7 +23,7 @@ fork it. improve it. make it yours. PRs are welcome!
 this fork ports pstack to claude code. models map to `opus`, `sonnet`, `haiku`, or `fable`, and `/setup-pstack` writes `~/.claude/pstack-models.md`.
 
 ```bash
-/plugin marketplace add Ptrhnk/pstack-plugins
+/plugin marketplace add Ptrhnk/pstack-plugins#claude-code
 /plugin install pstack@pstack-claude
 ```
 
