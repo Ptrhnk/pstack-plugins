@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # Figure it out
 
+Other pstack skills named here live at `${CLAUDE_PLUGIN_ROOT}/skills/<name>/SKILL.md`, and a principle named `x` is `principle-x`. Most set `disable-model-invocation`, so the Skill tool refuses them. Read the file instead.
+
 When the task matches no playbook, design one. The deliverable before any code is the workflow itself: a sequence of phases that scales rigor to the task, runs the scientific method, and leaves a decision trail a human can audit after stepping away.
 
 ## Start

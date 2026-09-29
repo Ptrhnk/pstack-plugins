@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # Architect
 
+Other pstack skills named here live at `${CLAUDE_PLUGIN_ROOT}/skills/<name>/SKILL.md`, and a principle named `x` is `principle-x`. Most set `disable-model-invocation`, so the Skill tool refuses them. Read the file instead.
+
 Design before implementing. Sketch types, function signatures, class shapes, and module boundaries with `not implemented` bodies and pseudocode. Synthesize across multiple model perspectives, then fill in code against the chosen sketch. If implementation proves the sketch wrong, throw it out and redesign.
 
 ## Start

@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # Technical writing
 
+Other pstack skills named here live at `${CLAUDE_PLUGIN_ROOT}/skills/<name>/SKILL.md`, and a principle named `x` is `principle-x`. Most set `disable-model-invocation`, so the Skill tool refuses them. Read the file instead.
+
 The goal is writing a tired engineer understands on the first read. Four layers get you there, one question each: what kind of document is this, how do sentences address the reader, how much does each sentence carry, and can any sentence be read two ways. Apply all four.
 
 Three rules sit above the layers:

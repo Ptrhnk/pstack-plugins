@@ -6,6 +6,8 @@ disable-model-invocation: true
 
 # Reflect
 
+Other pstack skills named here live at `${CLAUDE_PLUGIN_ROOT}/skills/<name>/SKILL.md`, and a principle named `x` is `principle-x`. Most set `disable-model-invocation`, so the Skill tool refuses them. Read the file instead.
+
 Mine the current conversation for durable learnings, then route them into skill edits.
 
 ## When to invoke
